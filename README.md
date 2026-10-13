@@ -4,7 +4,7 @@ A small tool for **Space Station 14** musicians. It fixes MIDI files whose drums
 
 It runs in your browser. Nothing gets uploaded anywhere.
 
-**Use it:** link.  Download `index.html` and open it in Chrome. TODO: GitHub Pages
+**Use it:**  Download `index.html` and open it in Chrome. TODO: GitHub Pages link. 
 
 <br clear="right">
 
