@@ -1,5 +1,3 @@
-<img src="assets/kurt-urfel-by-saver310.jpg" alt="Kurt Urfel in sunglasses, art by Saver310" width="300" align="right">
-
 # Kurt Urfel's MIDI Fixer
 
 A small tool for **Space Station 14** musicians. It fixes MIDI files whose drums turn into a piano or a guitar on the DAW, drums that break after you played another song, and MIDIs that play too quietly.
@@ -72,7 +70,6 @@ Everything the page needs is in `src/`:
 
 ## Credits
 
-- **Kurt Urfel artwork** at the top of this README: by **Saver310**. TODO: confirm permission and how Saver310 wants to be credited.
 - **Kurt Urfel sprite** in the tool: built from Space Station 14 art, licensed [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 - **FluidSynth** (LGPL-2.1) and **js-synthesizer** (BSD-3-Clause) are loaded from jsDelivr when you listen. They are not part of this repo.
 - **GeneralUser GS** by S. Christian Collins is the soundfont SS14 ships. It is not included here. You load your own copy.
@@ -84,4 +81,4 @@ Special thanks to ss14 Server Carpmosia. This community means a lot to me and i 
 
 ## License
 
-The code is under the MIT License, see `LICENSE`. The artwork in `assets/` is not covered by it: the sprite is CC-BY-SA 3.0, and the Saver310 artwork belongs to Saver310.
+The code is under the MIT License, see `LICENSE`. The artwork in `assets/` is not covered by it: the sprite is CC-BY-SA 3.0.
