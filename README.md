@@ -1,6 +1,6 @@
 # Kurt Urfel's MIDI Fixer
 
-**DISCLAIMER** This is a Vibecoded hotfix to prepare ypur files to surpass the bug which violates the Ai-usage terms and conditions of SS14.
+**DISCLAIMER** This is a Vibecoded hotfix to prepare your files to surpass the bug which is causing the issue. This violates the Ai-usage terms and conditions of SS14. Please be aware of that, handle the game with respect. I love it very much.
 sharing this tool is not allowed and for private use only and will be deleted as soon as the bug fix gets merged.
 
 This issue is actually solved by me here:  https://github.com/space-wizards/RobustToolbox/pull/7153
