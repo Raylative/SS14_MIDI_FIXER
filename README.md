@@ -1,5 +1,11 @@
 # Kurt Urfel's MIDI Fixer
 
+**DISCLAIMER** This is a Vibecoded hotfix to prepare ypur files to surpass the bug which violates the Ai-usage Law of SS14.
+sharing this tool is not allowed and for private use only and will be deleted as soon as the bug fix gets merged.
+
+This issue is actually solved by me here:  https://github.com/space-wizards/RobustToolbox/pull/7153
+
+
 A small tool for **Space Station 14** musicians. It fixes MIDI files whose drums turn into a piano or a guitar on the DAW, drums that break after you played another song, and MIDIs that play too quietly.
 
 It runs in your browser. Nothing gets uploaded anywhere.
